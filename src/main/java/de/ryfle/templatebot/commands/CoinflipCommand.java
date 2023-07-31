@@ -10,6 +10,7 @@ public class CoinflipCommand extends ListenerAdapter {
 
     public void onSlashCommandInteraction(SlashCommandInteractionEvent e) {
         if(e.getName().equals("coinflip")) {
+            //gives out a either 1 or 0, if 0 the coin says heads, if 1 the coin says tails
             Random r = new Random();
             int result = r.nextInt(2);
             if(result == 0) {
