@@ -20,6 +20,7 @@ The config.properties file is made so you can easily change the name of the bot 
 
 # Version
 It should always be kept up to date and has the latest JDA version.
+If not please let me know :)
 
 
 # Feedback
