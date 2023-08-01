@@ -1,8 +1,8 @@
-package your.project.templatebot.main;
+package your.project.bot.main;
 
-import your.project.templatebot.commands.CoinflipCommand;
-import your.project.templatebot.commands.customCommands;
-import your.project.templatebot.commands.PingCommand;
+import your.project.bot.commands.CoinflipCommand;
+import your.project.bot.commands.customCommands;
+import your.project.bot.commands.PingCommand;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
