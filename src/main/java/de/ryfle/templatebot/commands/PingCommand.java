@@ -1,4 +1,4 @@
-package yyour.project.bot.commands;
+package your.project.bot.commands;
 
 import your.project.bot.embeds.embedCreator;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
