@@ -1,6 +1,6 @@
-package your.project.templatebot.embeds;
+package your.project.bot.embeds;
 
-import your.project.templatebot.main.Main;
+import your.project.bot.main.Main;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.entities.MessageEmbed;
 
