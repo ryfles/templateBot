@@ -1,6 +1,6 @@
 package your.project.templatebot.commands;
 
-import de.ryfle.templatebot.embeds.embedCreator;
+import your.project.templatebot.embeds.embedCreator;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
