@@ -1,6 +1,6 @@
-package your.project.templatebot.commands;
+package your.project.bot.commands;
 
-import de.ryfle.templatebot.main.Main;
+import your.project.bot.main.Main;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;
 
