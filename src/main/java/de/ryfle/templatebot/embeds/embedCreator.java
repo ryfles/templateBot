@@ -1,6 +1,6 @@
 package your.project.templatebot.embeds;
 
-import de.ryfle.templatebot.main.Main;
+import your.project.templatebot.main.Main;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.entities.MessageEmbed;
 
