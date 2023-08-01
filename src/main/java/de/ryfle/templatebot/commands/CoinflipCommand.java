@@ -1,6 +1,6 @@
-package your.project.templatebot.commands;
+package your.project.bot.commands;
 
-import your.project.templatebot.embeds.embedCreator;
+import your.project.bot.embeds.embedCreator;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
